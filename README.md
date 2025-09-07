@@ -1,5 +1,6 @@
-# Hi there 👋, I'm Yadhunandan  
-💻 Passionate developer | 🚀 Open-source enthusiast | 📚 Lifelong learner  
+# Hi there 👋, I'm Yadhunandan K
+💻 Passionate developer | 🚀 Open-source enthusiast | 📚 Student
+
 
 ---
 
