@@ -26,7 +26,7 @@
 ---
 
 ## 🌐 Connect with Me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yadhunandank)     [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?logo=firefox&logoColor=#FF7139)](https://yadhunandan-portfolio.netlify.app/)     [![CodeChef](https://img.shields.io/badge/CodeChef-%235B4638.svg?logo=CodeChef&logoColor=white)](https://www.codechef.com/users/yadhunandan_k5)     [![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-%2300C853.svg?logo=GeeksforGeeks&logoColor=white)](https://www.geeksforgeeks.org/user/yaduyadunkh5q/)     [![HackerRank](https://img.shields.io/badge/HackerRank-%2300EA64.svg?logo=HackerRank&logoColor=white)](https://www.hackerrank.com/profile/yaduyadunandan71)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yadhunandank)     [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?logo=firefox&logoColor=#FF7139)](https://yadhunandan-portfolio.netlify.app/)    [![HackerRank](https://img.shields.io/badge/HackerRank-%2300EA64.svg?logo=HackerRank&logoColor=white)](https://www.hackerrank.com/profile/yaduyadunandan71)     [![CodeChef](https://img.shields.io/badge/CodeChef-%235B4638.svg?logo=CodeChef&logoColor=white)](https://www.codechef.com/users/yadhunandan_k5)     [![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-%2300C853.svg?logo=GeeksforGeeks&logoColor=white)](https://www.geeksforgeeks.org/user/yaduyadunkh5q/)     [![HackerRank](https://img.shields.io/badge/HackerRank-%2300EA64.svg?logo=HackerRank&logoColor=white)](https://www.hackerrank.com/profile/yaduyadunandan71)  
 
 ---
 
